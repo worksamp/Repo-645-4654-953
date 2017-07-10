@@ -10,7 +10,7 @@ namespace MvcApplicationTest.Controllers
     {
         public ActionResult Index()
         {
-        //vbnvbadded for testing
+        //added for testing
             return View();
         }
     }
